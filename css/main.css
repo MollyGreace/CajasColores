@@ -1,0 +1,47 @@
+.container {
+  background-color: red;
+  height: 300px;
+  position: relative;
+  width:  300px;  
+}
+
+.block-1 {
+  background-color: purple;
+  height: 150px;
+  left: 73px;
+  position: absolute;
+  top: 73px;
+  width: 150px;
+}
+
+.block-2 {
+  background-color: yellow;
+  height: 77px;
+  left: 73px;
+  position: absolute;
+  top: 73px;
+  width: 77px;
+}
+
+.container-2 {
+  background-color: blue;
+  height: 300px;
+  position: relative;
+  width: 300px; 
+}
+
+.block-3 {
+  background-color: green;
+  height: 150px;
+  left: 73px;
+  position: absolute;
+  top: 73px;
+  width: 150px;
+}
+
+.block-4 {
+  background-color: black;
+  height: 73px;
+  position: absolute;
+  width: 73px;
+}
